@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kaushal 👋</h1>
 
 <p align="center">
-  🚀 1st Year B.Tech CSE Student at Lovely Professional University <br>
+  🚀 B.Tech CSE Student at Lovely Professional University <br>
   💻 Aspiring Software Engineer & Full Stack Developer <br>
   🌱 Learning: C++, Java, Python, HTML, CSS, JavaScript <br>
   🔐 Exploring AI, Cybersecurity, and Ethical Hacking <br>
