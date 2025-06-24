@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kaushal 👋</h1>
 
-<!--
-**KaushalPrazapati/KaushalPrazapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 1st Year B.Tech CSE Student at Lovely Professional University <br>
+  💻 Aspiring Software Engineer & Full Stack Developer <br>
+  🌱 Learning: C++, Java, Python, HTML, CSS, JavaScript <br>
+  🔐 Exploring AI, Cybersecurity, and Ethical Hacking <br>
+  📬 Reach me at: <a href="mailto:kaushalprazapati@gmail.com">kaushalprazapati@gmail.com</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+```txt
+Languages:     C++, Java, Python
+Web:           HTML, CSS, JavaScript (Basics)
+Tools & Tech:  Git, ChatGPT, Microsoft 365
+Learning:      Full Stack Dev, Cybersecurity, AI
